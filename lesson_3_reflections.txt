@@ -5,3 +5,7 @@ When you are working on a computer that is not yours.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Maybe you don't want certain files on your local.
+
+fork is a separate path of work started from a separate repository.
+clones is a copy of a cloud-based repo.
+branch is a separate path of work w/in a single repo.
