@@ -9,3 +9,6 @@ Maybe you don't want certain files on your local.
 fork is a separate path of work started from a separate repository.
 clones is a copy of a cloud-based repo.
 branch is a separate path of work w/in a single repo.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Access in case you don't have internet connection or in case github is down.
